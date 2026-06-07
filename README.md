@@ -16,7 +16,7 @@ The draft RFC is currently being discussed here:
 
 Read the current draft RFC here:
 
-[RFC 0001: Modstitch Origin Manifest v1.0](https://github.com/isXander/modstitch-origin/blob/main/rfc/0001.md)
+[RFC 0001: Modstitch Origin Manifest v1.0](https://modstitch-origin.isxander.dev/rfc/0001.md)
 
 ## Why this exists
 
